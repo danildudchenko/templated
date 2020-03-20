@@ -1,0 +1,63 @@
+﻿  Source.cpp
+c:\users\user\source\repos\hw 2902\hw 2902\source.cpp(32): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\user\source\repos\hw 2902\hw 2902\source.cpp(164): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  c:\users\user\source\repos\hw 2902\hw 2902\source.cpp(49): note: see reference to function template instantiation 'T arrayTotal<int>(T [],const int)' being compiled
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\hw 2902\hw 2902\source.cpp(108): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  c:\users\user\source\repos\hw 2902\hw 2902\source.cpp(52): note: see reference to function template instantiation 'void arraySort<double>(T [],const int)' being compiled
+          with
+          [
+              T=double
+          ]
+c:\users\user\source\repos\hw 2902\hw 2902\source.cpp(176): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  c:\users\user\source\repos\hw 2902\hw 2902\source.cpp(54): note: see reference to function template instantiation 'T arrayMax<double>(T [],const int)' being compiled
+          with
+          [
+              T=double
+          ]
+c:\users\user\source\repos\hw 2902\hw 2902\source.cpp(181): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+c:\users\user\source\repos\hw 2902\hw 2902\source.cpp(190): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  c:\users\user\source\repos\hw 2902\hw 2902\source.cpp(54): note: see reference to function template instantiation 'T arrayMin<double>(T [],const int)' being compiled
+          with
+          [
+              T=double
+          ]
+c:\users\user\source\repos\hw 2902\hw 2902\source.cpp(195): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+c:\users\user\source\repos\hw 2902\hw 2902\source.cpp(164): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=char
+          ]
+  c:\users\user\source\repos\hw 2902\hw 2902\source.cpp(57): note: see reference to function template instantiation 'T arrayTotal<char>(T [],const int)' being compiled
+          with
+          [
+              T=char
+          ]
+  hw 2902.vcxproj -> C:\Users\User\source\repos\hw 2902\Debug\hw 2902.exe
